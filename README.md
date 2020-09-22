@@ -1,10 +1,7 @@
 # SuppliersErp
-A project which has a CRUD operation for Suppliers and Supplier Categories and custom-made validations
-which front-end design was based in Angular 10 and Bootstrap 4 
-(https://github.com/apalasopoulos1986/erpuserinterface). 
-It held the principle of  Separation of Concern
-because the application is consisted of 3 layers (Database, Api 2 design and UI).
-
+A project which has a CRUD operation (based on ASP.NET Web Api 2) for Suppliers and Supplier Categories and custom-made validations which front-end design was based in Angular 10 and Bootstrap 4 (https://github.com/apalasopoulos1986/erpuserinterface). 
+It held the principle of Separation of Concern because the application is 
+consisted of 3 layers (Database, Web Api 2 design and UI).
 
 Scripts for generating database
 
